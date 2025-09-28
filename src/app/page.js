@@ -14,7 +14,7 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>Beejay Arquero</li>
+          <li>junrich yvez ligan</li>
           <li>
             Get started by editing <code>src/app/page.js</code>.
           </li>
